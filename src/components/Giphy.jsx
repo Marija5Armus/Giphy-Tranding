@@ -1,4 +1,4 @@
-import Axios from 'axios';
+// import Axios from 'axios';
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import Loader from './Loader'
@@ -50,7 +50,7 @@ const renderGifs= () => {
     return data.map(el => {
         return ( 
         <div key={el.id} className='gif'>
-             <img src={el.images.fixed_height.url}/>
+             <img src={el.images.fixed_height.url} alt='img'/>
         </div>
         );
     });
