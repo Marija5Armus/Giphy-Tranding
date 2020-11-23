@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[ Link to app: https://giphytrending.netlify.app/]https://giphytrending.netlify.app/)
+[Link to app: https://giphytrending.netlify.app/](https://giphytrending.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
